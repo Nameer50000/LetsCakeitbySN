@@ -1,0 +1,249 @@
+/* Global Styles */
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+/* Header Styles */
+header {
+	background-color: #F8D8C8;
+	padding: 20px;
+}
+
+header h1 {
+	font-size: 48px;
+	margin: 0;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav ul li {
+	display: inline-block;
+	margin: 0 10px;
+}
+
+nav ul li a {
+	color: #fff;
+	text-decoration: none;
+	font-size: 24px;
+}
+
+/* Main Content Styles */
+main {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 40px 20px;
+}
+
+section {
+	margin-bottom: 40px;
+}
+
+section h2 {
+	font-size: 36px;
+	margin-bottom: 20px;
+}
+
+section ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+section ul li h3 {
+	font-size: 24px;
+	margin: 0;
+	margin-bottom: 10px;
+}
+
+section ul li ul {
+	margin-left: 20px;
+}
+
+section ul li ul li {
+	margin-bottom: 10px;
+}
+
+/* Contact Form Styles */
+form label {
+	display: block;
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+
+form input[type="text"],
+form input[type="email"],
+form textarea {
+	display: block;
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 20px;
+	font-size: 18px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+}
+
+form input[type="submit"] {
+	background-color: #F8D8C8;
+	color: #fff;
+	font-size: 24px;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	transition: background-color 0.3s ease-in-out;
+}
+
+form input[type="submit"]:hover {
+	background-color: #FFA07A;
+}
+/* Global Styles */
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+/* Header Styles */
+header {
+	background-color: #F8D8C8;
+	padding: 20px;
+}
+
+header h1 {
+	font-size: 48px;
+	margin: 0;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav ul li {
+	display: inline-block;
+	margin: 0 10px;
+}
+
+nav ul li a {
+	color: #fff;
+	text-decoration: none;
+	font-size: 24px;
+}
+
+/* Main Content Styles */
+main {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 40px 20px;
+}
+
+section {
+	margin-bottom: 40px;
+}
+
+section h2 {
+	font-size: 36px;
+	margin-bottom: 20px;
+}
+
+section ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+section ul li h3 {
+	font-size: 24px;
+	margin: 0;
+	margin-bottom: 10px;
+}
+
+section ul li ul {
+	margin-left: 20px;
+}
+
+section ul li ul li {
+	margin-bottom: 10px;
+}
+
+/* Contact Form Styles */
+form label {
+	display: block;
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+
+form input[type="text"],
+form input[type="email"],
+form textarea {
+	display: block;
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 20px;
+	font-size: 18px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+}
+
+form input[type="submit"] {
+	background-color: #F8D8C8;
+	color: #fff;
+	font-size: 24px;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	transition: background-color 0.3s ease-in-out;
+}
+
+form input[type="submit"]:hover {
+	background-color: #FFA07A;
+}
+/* Style for search bar */
+nav form {
+  display: flex;
+  align-items: center;
+}
+
+nav input[type="text"] {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin-right: 0.5rem;
+}
+
+nav button[type="submit"] {
+  background-color: #b7b7b7;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+nav button[type="submit"]:hover {
+  background-color: #616161;
+}
+a[href^="mailto:"] {
+  color: #ffffff;
+  background-color: #007bff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.fa-instagram {
+  font-size: 24px;
+  color: #000;
+  margin-right: 10px;
+  }
+
+
+  
+  
